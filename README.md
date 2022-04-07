@@ -1,6 +1,6 @@
 # TestPersonalizationTool
  
- Script Name  : TestPersonalization.exe
+ Script Name  : TestPersonalization.exe [^1]
  
  Description  : This simple tool can be used to test the Ivanti Personalization.
  
@@ -19,3 +19,4 @@
  
  ![image](https://user-images.githubusercontent.com/60140573/162282413-54f82868-f247-4f4d-8c60-48afb291b35a.png)
 
+[^1]: This tool is not distributed or supported by Ivanti itself. Use at your own risk.
