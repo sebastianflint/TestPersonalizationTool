@@ -1,0 +1,11 @@
+C:\Users\sflint.SVA\source\repos\TestPersonalization\TestPersonalization\bin\Debug\TestPersonalization.exe.config
+C:\Users\sflint.SVA\source\repos\TestPersonalization\TestPersonalization\bin\Debug\TestPersonalization.exe
+C:\Users\sflint.SVA\source\repos\TestPersonalization\TestPersonalization\bin\Debug\TestPersonalization.pdb
+C:\Users\sflint.SVA\source\repos\TestPersonalization\TestPersonalization\obj\Debug\TestPersonalization.csproj.AssemblyReference.cache
+C:\Users\sflint.SVA\source\repos\TestPersonalization\TestPersonalization\obj\Debug\TestPersonalization.csproj.SuggestedBindingRedirects.cache
+C:\Users\sflint.SVA\source\repos\TestPersonalization\TestPersonalization\obj\Debug\TestPersonalization.Properties.Resources.resources
+C:\Users\sflint.SVA\source\repos\TestPersonalization\TestPersonalization\obj\Debug\TestPersonalization.csproj.GenerateResource.cache
+C:\Users\sflint.SVA\source\repos\TestPersonalization\TestPersonalization\obj\Debug\TestPersonalization.csproj.CoreCompileInputs.cache
+C:\Users\sflint.SVA\source\repos\TestPersonalization\TestPersonalization\obj\Debug\TestPersonalization.exe
+C:\Users\sflint.SVA\source\repos\TestPersonalization\TestPersonalization\obj\Debug\TestPersonalization.pdb
+C:\Users\sflint.SVA\source\repos\TestPersonalization\TestPersonalization\obj\Debug\TestPersonalization.TestPersonalization.resources
